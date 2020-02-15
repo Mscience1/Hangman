@@ -1,0 +1,18 @@
+C:\Users\Miki\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Miki\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Miki\source\repos\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Miki\source\repos\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Miki\source\repos\Hangman\Hangman\obj\Debug\Hangman.Hangman.resources
+C:\Users\Miki\source\repos\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Miki\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\Miki\source\repos\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Miki\source\repos\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\obj\Debug\Hangman.Hangman.resources
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
